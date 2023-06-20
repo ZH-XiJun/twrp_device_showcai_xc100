@@ -1,4 +1,4 @@
-# Android device tree for Showcai XC100 (sp9832a_2h11_volte)
+# TWRP device tree for Showcai XC100 (sp9832a_2h11_volte)
 **[Click](http://github.com/ZH-XiJun/showcai_sp9832a_2h11_volte_dump) for firmware dump and more info**
 ## Usage
 Attention: Device path should be set to device/sprd/sp9832a_2h11_volte, not device/showcai/xc100
