@@ -1,4 +1,5 @@
 # Android device tree for Showcai XC100 (sp9832a_2h11_volte)
+Attention: Device path set to device/sprd/sp9832a_2h11_volte, not device/showcai/xc100
 
 ```
 #
