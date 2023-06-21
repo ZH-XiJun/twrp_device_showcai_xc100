@@ -17,9 +17,10 @@ for help
 [Click](http://github.com/azwhikaru/Action-TWRP-Builder) for project repo
 
 Parameters:
-- 114514
+
 ### Download prebuilt image
 Work in progress
+**STRONGLY RECOMMEND NOT FLASHING THIS RELEASE OF TWRP**
 
 ```
 #
