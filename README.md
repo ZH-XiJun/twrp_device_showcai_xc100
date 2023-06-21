@@ -17,7 +17,16 @@ for help
 [Click](https://github.com/azwhikaru/Action-TWRP-Builder) for project repo
 
 Parameters:
-
+```
+MANIFEST_URL:https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni
+MANIFEST_BRANCH:twrp-6.0
+DEVICE_TREE_URL:https://github.com/ZH-XiJun/twrp_device_showcai_xc100/
+DEVICE_TREE_BRANCH:twrp-6.0
+DEVICE_PATH:device/sprd/sp9832a_2h11_volte
+DEVICE_NAME:sp9832a_2h11_volte
+MAKEFILE_NAME:omni_sp9832a_2h11_volte
+```
+Others keep it as usual
 ### Download prebuilt image
 Work in progress
 
